@@ -6,6 +6,8 @@ public class Test {
 		// TODO 自動生成されたメソッド・スタブ
 		System.out.println("Hello");
 
+		//		コメント追加
+
 	}
 
 }
